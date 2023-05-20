@@ -23,7 +23,7 @@ Atenerve is a discord bot with an integrated RPG. This one is very complete and 
 
 ```js
 {
-    "testServer": "YOUR SERVER ID
+    "testServer": "YOUR SERVER ID,
     "clientId": "BOT ID",
     "devs": ["YOUR ID", "OTHER ID"],
     "staffs": ["OTHER ID", "OTHER ID"],
