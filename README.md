@@ -6,8 +6,8 @@
 
 ## ⚙ » Installation & Configuration
 
-1. Install [Nodejs](https://nodejs.org/)
-2. Open up `config.json` with notepad or some other editor
+1. Install [Nodejs](https://nodejs.org/).
+2. Open `config.json` with some editor.
 3. Change the config in `config.json` with the following code:
 
 ```js
