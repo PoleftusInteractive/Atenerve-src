@@ -24,10 +24,18 @@ Atenerve is a discord bot with an integrated RPG. This one is very complete and 
 ```js
 {
     "testServer": "YOUR SERVER ID,
-    "clientId": "BOT ID",
+    "clientId": "YOUR BOT ID",
     "devs": ["YOUR ID", "OTHER ID"],
     "staffs": ["OTHER ID", "OTHER ID"],
 }
+```
+
+4. Open `.template.env` and rename them to `.env`.
+5. Change the file content to:
+
+```env
+TOKEN = "YOUR BOT TOKEN"
+MONGO = "YOUR MONGODB CLUSTER (e.g. mongodb+srv://me:password@cluster.orvjj2b.mongodb.net/Atenerve)"
 ```
 
 ## ❤️ » Credits
