@@ -4,7 +4,7 @@
 
 ---
 
-## <a id="config"></a>⚙ » Installation & Configuration
+## ⚙ » Installation & Configuration
 
 1. Install [Nodejs](https://nodejs.org/)
 2. Open up `config.json` with notepad or some other editor
@@ -18,3 +18,9 @@
     "staffs": ["OTHER ID", "OTHER ID"],
 }
 ```
+
+## ❤️ » Credits
+
+* 🗃️ Lead Projects: [Ponexi](https://github.com/PoNexiOFF)
+* 🖥️ Lead Developers: PhoenixMaster
+* 💻 Other Developer: [Zacharry Jones](https://github.com/ZacharryJones)
