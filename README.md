@@ -45,7 +45,7 @@ MONGO = "YOUR MONGODB CLUSTER (e.g. mongodb+srv://me:password@cluster.orvjj2b.mo
 * 💻 Other Developer: [Zacharry Jones](https://github.com/ZacharryJones)
 
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.youtube.com/@poleftusinteractive/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
@@ -56,3 +56,4 @@ MONGO = "YOUR MONGODB CLUSTER (e.g. mongodb+srv://me:password@cluster.orvjj2b.mo
     <img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
+
