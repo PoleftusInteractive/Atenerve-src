@@ -18,7 +18,7 @@ Atenerve is a discord bot with an integrated RPG. This one is very complete and 
 ## ⚙ » Installation & Configuration
 
 1. Install [Nodejs](https://nodejs.org/).
-2. Open `config.json` with some editor.
+2. Open `config.json` with some editor like vsc or notepad.
 3. Change the config in `config.json` with the following code:
 
 ```js
